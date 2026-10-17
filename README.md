@@ -16,3 +16,4 @@ Sample test scripts for a student attendance application.
 
 ## Purpose
 To manage test scripts using version control.
+Version control practical: Changes made directly on GitHub.
