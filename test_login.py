@@ -1,4 +1,4 @@
-
+# Updated login validation test script.
 import unittest
 
 def login(username, password):
